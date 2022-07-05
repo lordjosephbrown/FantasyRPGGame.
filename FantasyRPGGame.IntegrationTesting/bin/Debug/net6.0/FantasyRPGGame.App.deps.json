@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FantasyRPGGame.App/1.0.0": {
+        "dependencies": {
+          "FantasyRPGGame.Model": "1.0.0"
+        },
+        "runtime": {
+          "FantasyRPGGame.App.dll": {}
+        }
+      },
+      "FantasyRPGGame.Model/1.0.0": {
+        "runtime": {
+          "FantasyRPGGame.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FantasyRPGGame.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FantasyRPGGame.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
